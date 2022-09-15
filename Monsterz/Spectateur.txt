@@ -1,6 +1,9 @@
 - Spectateur
 [ Spectator ]
 Aberration de taille M, loyal neutre
+Un spectateur est une forme inférieure du tyrannoeil, une aberration infâme et mortelle. 
+Il ressemble à une sphère flottante à la mâchoire béante, et possède un grand œil unique au centre de quatre pédoncules oculaires qui lancent des rayons mortels.
+Allergique à la fête, il a tendance à s'attaquer aux fêtards sur les chemins sombres menant aux auberges.
 Classe d'armure 14 (armure naturelle)
 Points de vie 39 (6d8 + 12)
 Vitesse 0 m, vol 9 m (stationnaire)
@@ -38,6 +41,4 @@ Renvoi de sort. Si le spectateur réussit un jet de sauvegarde contre un sort, o
 Le sort cible alors cette créature à la place du spectateur.
  Si le sort demandait un jet de sauvegarde, la créature doit en faire un. Si le sort était une attaque, un jet d'attaque est lancé contre la créature ciblée.
 
-Un spectateur est une forme inférieure du tyrannoeil, une aberration infâme et mortelle. 
-Il ressemble à une sphère flottante à la mâchoire béante, et possède un grand œil unique au centre de quatre pédoncules oculaires qui lancent des rayons mortels.
 
