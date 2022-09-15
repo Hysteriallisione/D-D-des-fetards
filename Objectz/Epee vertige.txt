@@ -1,0 +1,7 @@
+ - Epée vertige:
+
+Arme type merveilleux, commun
+
+Cette arme en acier apparaisant comme une simple épée est en fait une arme qui recquière un état d'ivresse avancé (IVRESSE 20pts).
+Elle donne à son détenteur un boost (SPEED +20pts et AGILITE +10pts).
+Elle inflige toutefois de la fatigue (-5pts d'énergie par combat).

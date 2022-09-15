@@ -17,7 +17,6 @@ Résistances aux dégâts froid, foudre, nécrotique
 Immunités aux dégâts poison ; contondant, perforant et tranchant d'attaques non magiques
 Immunités aux états charmé, épuisement, effrayé, paralysé, empoisonné
 Sens vision véritable 36 m, Perception passive 19
-Langues commun et jusqu'à cinq autres langues
 Puissance 21 (33000 PX)
 Résistance légendaire (3/jour). Si la liche échoue à un jet de sauvegarde, elle peut décider de transformer cet échec en réussite.
 
@@ -29,11 +28,11 @@ Incantation. La liche est un lanceur de sorts de niveau 18. Sa caractéristique 
 Sorts mineurs (à volonté) : main de mage, prestidigitation, rayon de givre
 Niveau 1 (4 emplacements) : détection de la magie, projectile magique, bouclier, vague tonnante
 Niveau 2 (3 emplacements) : détection des pensées, invisibilité, flèche acide de Melf, image miroir
-Niveau 3 (3 emplacements) : animation des morts, contresort, dissipation de la magie, boule de feu
+Niveau 3 (3 emplacements) : animation des évanouis, boule de feu
 Niveau 4 (3 emplacements) : flétrissement, porte dimensionnelle
-Niveau 5 (3 emplacements) : brume mortelle, scrutation
+Niveau 5 (3 emplacements) : brume d'ennui, scrutation (gâche l'esprit festif, - 5pts d'énergie de ses adversaires)
 Niveau 6 (1 emplacement) : désintégration, globe d'invulnérabilité
-Niveau 7 (1 emplacement) : doigt de mort, changement de plan
+Niveau 7 (1 emplacement) : doigt d'honneur, changement de plan
 Niveau 8 (1 emplacement) : domination de monstre, mot de pouvoir étourdissant
 Niveau 9 (1 emplacement) : mot de pouvoir mortel
 Résistance au renvoi. La liche a un avantage aux jets de sauvegarde pour résister aux effets de renvoi des morts-vivants.

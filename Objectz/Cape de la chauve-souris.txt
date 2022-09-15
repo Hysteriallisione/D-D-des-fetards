@@ -1,0 +1,9 @@
+Cape de la chauve-souris
+[ Cloak of the Bat ]
+Objet merveilleux, rare 
+Cette cape est une pâle copie du déguisement Batman, vous pensiez faire fureur en soirée costumée.
+Tant que vous êtes équipé de cette cape, vous avez un avantage aux jets de Dextérité (Discrétion), ce qui est un comble pour un joueur en état d'ibriété. 
+Dans une zone de lumière faible ou de ténèbres, vous pouvez attraper les bords de la cape avec vos deux mains et l'utiliser pour voler avec une vitesse de 12 mètres.
+ Si par malheur vous lâchez les bords de la cape alors que vous êtes en train de voler grâce à elle, ou si vous ne vous trouvez plus dans une zone de lumière faible ou de ténèbres, vous perdez cette vitesse de vol.
+Tant que vous êtes équipé de cette cape et que vous vous trouvez dans une zone de lumière faible ou de ténèbres, vous pouvez utiliser votre action pour lancer sur vous-même le sort métamorphose afin de vous transformer en Batman Wish. Tant que vous êtes sous cette forme, vous conservez vos valeurs d'Intelligence, de Vitesse, et de Charisme. 
+La cape ne peut être réutilisée de cette manière avant la prochaine soirée.

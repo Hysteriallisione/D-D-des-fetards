@@ -1,0 +1,8 @@
+Cor de dévastation
+[ Horn of Blasting ]
+Objet merveilleux, rare
+Vous pouvez utiliser une action pour annoncer la tournée. Le cor produit alors un brouhahah tonitruant dans un cône de 9 mètres.
+ Chaque créature présente dans le cône doit effectuer un jet de sauvegarde de Constitution DD 15. En cas d'échec, une créature subit 5d6 dégâts de tonnerre et est assourdie pendant 1 minute.
+ En cas de réussite au jet, une créature ne subit que la moitié des dégâts et est perturbé donc peut être dans l'incapacité d'attaquer (ne sachant pas qui attaquer ni où).
+ Les créatures et les objets faits de verre ou de cristal ont un désavantage et peuvent être détruits.
+Chaque utilisation de la magie du cor a 20 % de risque d'entraîner son propre coma éthylique. 

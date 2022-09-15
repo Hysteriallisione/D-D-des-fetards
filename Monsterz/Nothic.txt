@@ -13,7 +13,6 @@ FOR
 8 (-1)
 Compétences Arcanes +3, Discrétion +5, Intuition +4, Perception +2
 Sens vision véritable 36 m, Perception passive 12
-Langues commun des profondeurs
 Puissance 2 (450 PX)
 Vue aiguisée. Le nothic a un avantage aux jets de Sagesse (Perception) faisant appel à la vue.
 
