@@ -1,0 +1,12 @@
+To save a new Version, commit and push repisitory:
+
+
+$ git add . (to add new version of my file)
+
+$ git log --oneline --all ( to see all versions submitted, new on top to oldest on the bottom of list)
+
+$ git commit -m "[name of version you want to commit]" (to commit new version and its name)
+
+$ git push origin master (to send the commit to the Git website page)
+
+$ git remote add origin https:// [ link git file to your git link].git (adds your file to your repisitory on Git website page)
