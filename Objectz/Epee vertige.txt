@@ -1,7 +1,9 @@
  - Epée vertige:
+(Zui quan, version avec une arme)
 
 Arme type merveilleux, commun
 
+(ou"le poing ivre", aussi traduit parfois en boxe de l'homme ivre) est un des styles de kung-fu dont les gestes ont été inspirés par une personne ivre.
 Cette arme en acier apparaisant comme une simple épée est en fait une arme qui recquière un état d'ivresse avancé (IVRESSE 20pts).
 Elle donne à son détenteur un boost (SPEED +20pts et AGILITE +10pts).
 Elle inflige toutefois de la fatigue (-5pts d'énergie par combat).

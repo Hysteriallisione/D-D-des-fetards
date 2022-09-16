@@ -13,7 +13,7 @@ d8	Créature
 1	Gemlin mignon
 2	Rat géant
 3	Flubber, gelée vivante et fêtarde
-4	Sanglier
+4	Bayonne, le cochon tirelire toujours très bagarreur
 5	Bloom, des Winx
 6	Gremlin vert
 7	Loup sanguinaire
@@ -27,7 +27,7 @@ d8	Créature
 4	Chèvre
 5	Pikachu en colère
 6	Sanglier géant
-7	Lion
+7	Mufasa
 8	Bigard, aime attaquer par derrière
 
 Sac à malices (ocre)
